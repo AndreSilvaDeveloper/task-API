@@ -8,6 +8,7 @@ const app = express();
 
 // Conectar ao banco de dados
 connectDB();
+//remoção
 
 // Middlewares
 app.use(express.json());
